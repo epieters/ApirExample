@@ -144,11 +144,11 @@ Lets use Visual Studio 2015 to create the Site.
  
 Using the standard ASP.NET Web Application template we create SqlWebApi
    
- ![SelectTemplate](img/SelectTemplate.png)
+ ![SelectTemplate](http://apirdocs.azurewebsites.net/img/SelectTemplate.png)
 
  Start a simple WebApi project
 
- ![SelectWebApi](img/SelectWebApi.png)
+ ![SelectWebApi](http://apirdocs.azurewebsites.net/img/SelectWebApi.png)
 
 When the project is ready, from the tools menu start package manager console
 
